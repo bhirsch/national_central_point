@@ -55,11 +55,11 @@ projects[views][subdir] = contrib
 
 ; Custom projects
 ; ---------------
-projects[fctc][type] = module
-projects[fctc][download][type] = git 
-projects[fctc][download][url] = gitosis@sciencecollaboration.org:fctc.git
-projects[fctc][download][branch] = master
-projects[fctc][subdir] = custom 
+; projects[fctc][type] = module
+; projects[fctc][download][type] = git 
+; projects[fctc][download][url] = gitosis@sciencecollaboration.org:fctc.git
+; projects[fctc][download][branch] = master
+; projects[fctc][subdir] = custom 
 
 projects[fctc_shipment][type] = module
 projects[fctc_shipment][download][type] = git 
