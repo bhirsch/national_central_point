@@ -49,3 +49,4 @@ dependencies[] = views
 ; dependencies[] = fctc
 dependencies[] = shipment
 dependencies[] = shipments
+dependencies[] = national_central_point_defaults

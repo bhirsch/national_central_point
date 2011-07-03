@@ -79,6 +79,11 @@ projects[fctc_shipments][download][branch] = master
 projects[fctc_shipments][subdir] = custom
 projects[fctc_shipments][directory_name] = shipments
 
+projects[national_central_point_defaults][type] = module
+projects[national_central_point_defaults][download][type] = git 
+projects[national_central_point_defaults][download][url] = git@github.com:bhirsch/national_central_point_defaults
+projects[national_central_point_defaults][subdir] = custom
+
 ; Libraries
 ; ---------
 ; This is sort of a hack. Normally this would be written like this: 
